@@ -39,6 +39,10 @@ function App() {
           <br></br>
           Proyecto Debian
         </p>
+        <br/>
+        <p>
+          by Salvador Morales Alarcon
+        </p>
       </header>
     </div>
   );
