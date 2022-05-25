@@ -33,6 +33,9 @@ function App() {
           <li>
             No tiene marcado ningún entorno gráfico en especial, pudiéndose no instalar ninguno, o instalar GNOME, KDE, MATE, Xfce, LXDE, Enlightenment u otro.
           </li>
+            <li>
+            Gran Informacion de mi Compañero.
+          </li>
         </ul>
         <p>
           Empresa:
